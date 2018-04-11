@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/stv3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e4ff33"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/stv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textSize="40sp" />
+
+    <Button
+        android:id="@+id/sbt1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/sbt2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+</LinearLayout>
